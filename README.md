@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👋 I'm Fahad Azhar  
 💻 Software Engineer & React.js Developer  
 ⚛️ 1+ year of experience building web applications  
@@ -7,13 +7,13 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kiyani670) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-azhar/) 
 
 ---
- 
-# 💻 Tech Stack:
+
+# 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -36,22 +36,21 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <!-- Total commits, private included -->
-![](https://github-readme-stats.vercel.app/api?username=FAHADAZHAR806&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-<!-- Streak Stats -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=FAHADAZHAR806&theme=dark&hide_border=false)
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FAHADAZHAR806&theme=dark&show_icons=true&count_private=true)
 
 <!-- Most Used Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=dark&layout=compact&count_private=true)
+![Fahad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=dark&layout=compact&langs_count=8)
 
 <!-- GitHub Trophies -->
-![](https://github-profile-trophy.vercel.app/?username=FAHADAZHAR806&theme=dark&no-frame=false&no-bg=false)
+![Fahad's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FAHADAZHAR806&theme=dark&no-bg=false&no-frame=false)
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
