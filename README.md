@@ -37,12 +37,17 @@
 ---
 
 # 📊 GitHub Stats:
+
+<!-- Total commits, private included -->
 ![](https://github-readme-stats.vercel.app/api?username=FAHADAZHAR806&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
 
+<!-- Streak Stats -->
 ![](https://streak-stats.demolab.com?user=FAHADAZHAR806&theme=dark&hide_border=false&cache_seconds=1800)
 
+<!-- Most used languages (requires public repo activity) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
 
+<!-- GitHub Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=FAHADAZHAR806&theme=dark&no-frame=true&no-bg=true&margin-w=5&margin-h=5)
 
 ---
