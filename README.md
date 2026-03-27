@@ -39,13 +39,13 @@
 # 📊 GitHub Stats
 
 <!-- Total commits, private included -->
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FAHADAZHAR806&theme=dark&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=FAHADAZHAR806&theme=dark&show_icons=true&count_private=true)
 
 <!-- Most Used Languages -->
-![Fahad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=dark&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=dark&layout=compact&langs_count=8)
 
 <!-- GitHub Trophies -->
-![Fahad's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FAHADAZHAR806&theme=dark&no-bg=false&no-frame=false)
+!](https://github-profile-trophy.vercel.app/?username=FAHADAZHAR806&theme=dark&no-bg=false&no-frame=false)
 
 ---
 
