@@ -38,19 +38,15 @@
 
 # 📊 GitHub Stats:
 
-<!-- Total commits, private included -->
 ![](https://github-readme-stats.vercel.app/api?username=FAHADAZHAR806&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-<!-- Streak Stats -->
 ![](https://streak-stats.demolab.com?user=FAHADAZHAR806&theme=dark&hide_border=false&cache_seconds=1800)
 
-<!-- ✅ FIX 1: count_private=true so private repos are counted, langs_count added -->
-![](https://github-readme-stats-FAHADAZHAR806.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=radical&hide_border=false&layout=compact&langs_count=8&count_private=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=radical&hide_border=false&layout=compact&langs_count=8)
 
 ---
 
-<!-- ✅ FIX 2: column=-1 for auto layout, rank filter ensures lower tiers show too -->
-![](https://github-profile-trophy.vercel.app/?username=FAHADAZHAR806&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![](https://github-profile-trophy.vercel.app/?username=FAHADAZHAR806&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&rank=-C,-B)
 
 ---
 
