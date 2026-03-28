@@ -44,13 +44,13 @@
 <!-- Streak Stats -->
 ![](https://streak-stats.demolab.com?user=FAHADAZHAR806&theme=dark&hide_border=false&cache_seconds=1800)
 
-<!-- Most used languages (requires public repo activity) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ✅ FIX 1: count_private=true so private repos are counted, langs_count added -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800)
 
+---
 
-
-<!-- GitHub Trophies -->
-![](https://github-profile-trophy.vercel.app/?username=FAHADAZHAR806&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ✅ FIX 2: column=-1 for auto layout, rank filter ensures lower tiers show too -->
+![](https://github-profile-trophy.vercel.app/?username=FAHADAZHAR806&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ---
 
