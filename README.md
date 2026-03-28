@@ -45,10 +45,12 @@
 ![](https://streak-stats.demolab.com?user=FAHADAZHAR806&theme=dark&hide_border=false&cache_seconds=1800)
 
 <!-- Most used languages (requires public repo activity) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 <!-- GitHub Trophies -->
-![](https://github-profile-trophy.vercel.app/?username=FAHADAZHAR806&theme=dark&no-frame=true&no-bg=true&margin-w=5&margin-h=5)
+![](https://github-profile-trophy.vercel.app/?username=FAHADAZHAR806&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
