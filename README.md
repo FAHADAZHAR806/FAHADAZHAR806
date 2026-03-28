@@ -45,7 +45,7 @@
 ![](https://streak-stats.demolab.com?user=FAHADAZHAR806&theme=dark&hide_border=false&cache_seconds=1800)
 
 <!-- ✅ FIX 1: count_private=true so private repos are counted, langs_count added -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800)
+![](https://github-readme-stats-FAHADAZHAR806.vercel.app/api/top-langs/?username=FAHADAZHAR806&theme=radical&hide_border=false&layout=compact&langs_count=8&count_private=true)
 
 ---
 
