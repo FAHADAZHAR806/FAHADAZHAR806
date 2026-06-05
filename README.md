@@ -1,11 +1,9 @@
 # 💫 About Me:
-👋 I'm Fahad Azhar
+👋 I'm Fahad Azhar  
 💻 Full-Stack MERN Developer & Software Engineer 
-🚀 Passionate about building scalable, high-performance web applications from concept to deployment 
-⚡ Experienced in developing end-to-end solutions using MongoDB, Express.js, React.js, Next.js, and Node.js 
 🔗 Skilled in designing responsive user interfaces, RESTful APIs, authentication systems, and database architectures
-📈 Focused on clean code, performance optimization, modern software architecture, and exceptional user experiences
-🌱 Continuously expanding my expertise in full-stack development, cloud technologies, and enterprise-grade applications  
+📈 Focused on clean code, performance optimization, modern software architecture, and exceptional user experiences  
+🚀Passionate about building scalable, high-performance web applications from concept to deployment
 
 ---
 
